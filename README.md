@@ -8,3 +8,4 @@ The real-time monitoring of heart failure patients, especially people with cardi
 
 # Block Diagram
 
+![image](https://github.com/dileepmanelli/Heart-attack-detecting-system/assets/127981283/a04bd90d-20df-4249-9dbc-3913bebd1582)
